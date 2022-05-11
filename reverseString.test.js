@@ -1,4 +1,3 @@
 import { reverseString } from './reverseString';
 
-it('Reverses string', () =>
-  expect(reverseString('HelloWorld')).toBe('dlroWolleH'));
+it('Reverses string', () => expect(reverseString('Hrouko')).toBe('okuorH'));
