@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Test using JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiwasthal/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiwasthal/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Kiwasthal/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.17.10",
+    "jest": "^28.1.0"
+  }
+}
